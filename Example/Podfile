@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AlexPod_Tests' do
+  pod 'AlexPod', :path => '../'
+  
+  
+end
