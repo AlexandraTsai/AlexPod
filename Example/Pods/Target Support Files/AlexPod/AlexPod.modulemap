@@ -1,0 +1,6 @@
+framework module AlexPod {
+  umbrella header "AlexPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

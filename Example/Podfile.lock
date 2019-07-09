@@ -1,0 +1,16 @@
+PODS:
+  - AlexPod (0.1.0)
+
+DEPENDENCIES:
+  - AlexPod (from `../`)
+
+EXTERNAL SOURCES:
+  AlexPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AlexPod: 521d4561a05c0789f534077feba9f28435e97364
+
+PODFILE CHECKSUM: dd8abde5decef8c7d21adf4c9459d0f2b1a27333
+
+COCOAPODS: 1.5.3
